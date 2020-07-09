@@ -1,0 +1,40 @@
+body {
+}
+
+.navbar {
+    -webkit-box-shadow: 0px 2px 13px 0px rgba(0,0,0,0.38);
+-moz-box-shadow: 0px 2px 13px 0px rgba(0,0,0,0.38);
+box-shadow: 0px 2px 13px 0px rgba(0,0,0,0.38);
+
+}
+ .nav-link {
+    border-right: 1px solid #B1B8C2;
+ }
+.col-md-12  div img {
+    height: 300px;
+}
+
+.fondo {
+    background-image: url(../img/img6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: relative;
+    height: 680px;
+    color: #B1B8C2;
+    font-size: medium;
+}
+
+.fondo h1 {
+    color: beige;
+}
+
+.col-lg-3 p {
+    
+    color: beige;
+}
+
+.row .col-lg-3 {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 0%, rgba(35,9,121,0.5774510487788865) 40%); 
+}
